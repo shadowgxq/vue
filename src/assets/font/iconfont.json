@@ -1,0 +1,65 @@
+{
+  "id": "2046826",
+  "name": "vue",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16982243",
+      "name": "category- Selected",
+      "font_class": "categoryselected-copy",
+      "unicode": "e9cf",
+      "unicode_decimal": 59855
+    },
+    {
+      "icon_id": "16982246",
+      "name": "my",
+      "font_class": "my-copy",
+      "unicode": "e9d0",
+      "unicode_decimal": 59856
+    },
+    {
+      "icon_id": "16982247",
+      "name": "shop-cart-3",
+      "font_class": "shop-cart--copy",
+      "unicode": "e9d1",
+      "unicode_decimal": 59857
+    },
+    {
+      "icon_id": "16982263",
+      "name": "Home, homepage, menu",
+      "font_class": "Homehomepagemenu-copy",
+      "unicode": "e9d2",
+      "unicode_decimal": 59858
+    },
+    {
+      "icon_id": "698160",
+      "name": "category- Selected",
+      "font_class": "categoryselected",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "1058097",
+      "name": "my",
+      "font_class": "my",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "5924936",
+      "name": "shop-cart-3",
+      "font_class": "shop-cart-",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "11982657",
+      "name": "Home, homepage, menu",
+      "font_class": "Homehomepagemenu",
+      "unicode": "e9ce",
+      "unicode_decimal": 59854
+    }
+  ]
+}
