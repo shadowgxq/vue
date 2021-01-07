@@ -1,2 +1,2 @@
-### the vue project of the super-mall demo
+### 蘑菇街项目
 
